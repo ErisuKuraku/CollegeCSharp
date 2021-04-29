@@ -1,0 +1,16 @@
+C:\Users\ellis\source\repos\collegetrys\Exorsice3\Exorsice3\bin\Debug\net5.0\Exorsice3.exe
+C:\Users\ellis\source\repos\collegetrys\Exorsice3\Exorsice3\bin\Debug\net5.0\Exorsice3.deps.json
+C:\Users\ellis\source\repos\collegetrys\Exorsice3\Exorsice3\bin\Debug\net5.0\Exorsice3.runtimeconfig.json
+C:\Users\ellis\source\repos\collegetrys\Exorsice3\Exorsice3\bin\Debug\net5.0\Exorsice3.runtimeconfig.dev.json
+C:\Users\ellis\source\repos\collegetrys\Exorsice3\Exorsice3\bin\Debug\net5.0\Exorsice3.dll
+C:\Users\ellis\source\repos\collegetrys\Exorsice3\Exorsice3\bin\Debug\net5.0\ref\Exorsice3.dll
+C:\Users\ellis\source\repos\collegetrys\Exorsice3\Exorsice3\bin\Debug\net5.0\Exorsice3.pdb
+C:\Users\ellis\source\repos\collegetrys\Exorsice3\Exorsice3\obj\Debug\net5.0\Exorsice3.csprojAssemblyReference.cache
+C:\Users\ellis\source\repos\collegetrys\Exorsice3\Exorsice3\obj\Debug\net5.0\Exorsice3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellis\source\repos\collegetrys\Exorsice3\Exorsice3\obj\Debug\net5.0\Exorsice3.AssemblyInfoInputs.cache
+C:\Users\ellis\source\repos\collegetrys\Exorsice3\Exorsice3\obj\Debug\net5.0\Exorsice3.AssemblyInfo.cs
+C:\Users\ellis\source\repos\collegetrys\Exorsice3\Exorsice3\obj\Debug\net5.0\Exorsice3.csproj.CoreCompileInputs.cache
+C:\Users\ellis\source\repos\collegetrys\Exorsice3\Exorsice3\obj\Debug\net5.0\Exorsice3.dll
+C:\Users\ellis\source\repos\collegetrys\Exorsice3\Exorsice3\obj\Debug\net5.0\ref\Exorsice3.dll
+C:\Users\ellis\source\repos\collegetrys\Exorsice3\Exorsice3\obj\Debug\net5.0\Exorsice3.pdb
+C:\Users\ellis\source\repos\collegetrys\Exorsice3\Exorsice3\obj\Debug\net5.0\Exorsice3.genruntimeconfig.cache

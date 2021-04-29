@@ -1,0 +1,16 @@
+C:\Users\ellis\source\repos\collegetrys\Arrays and Lists\Exercise 1\Exercise 1\bin\Debug\net5.0\Exercise 1.exe
+C:\Users\ellis\source\repos\collegetrys\Arrays and Lists\Exercise 1\Exercise 1\bin\Debug\net5.0\Exercise 1.deps.json
+C:\Users\ellis\source\repos\collegetrys\Arrays and Lists\Exercise 1\Exercise 1\bin\Debug\net5.0\Exercise 1.runtimeconfig.json
+C:\Users\ellis\source\repos\collegetrys\Arrays and Lists\Exercise 1\Exercise 1\bin\Debug\net5.0\Exercise 1.runtimeconfig.dev.json
+C:\Users\ellis\source\repos\collegetrys\Arrays and Lists\Exercise 1\Exercise 1\bin\Debug\net5.0\Exercise 1.dll
+C:\Users\ellis\source\repos\collegetrys\Arrays and Lists\Exercise 1\Exercise 1\bin\Debug\net5.0\ref\Exercise 1.dll
+C:\Users\ellis\source\repos\collegetrys\Arrays and Lists\Exercise 1\Exercise 1\bin\Debug\net5.0\Exercise 1.pdb
+C:\Users\ellis\source\repos\collegetrys\Arrays and Lists\Exercise 1\Exercise 1\obj\Debug\net5.0\Exercise 1.csprojAssemblyReference.cache
+C:\Users\ellis\source\repos\collegetrys\Arrays and Lists\Exercise 1\Exercise 1\obj\Debug\net5.0\Exercise 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellis\source\repos\collegetrys\Arrays and Lists\Exercise 1\Exercise 1\obj\Debug\net5.0\Exercise 1.AssemblyInfoInputs.cache
+C:\Users\ellis\source\repos\collegetrys\Arrays and Lists\Exercise 1\Exercise 1\obj\Debug\net5.0\Exercise 1.AssemblyInfo.cs
+C:\Users\ellis\source\repos\collegetrys\Arrays and Lists\Exercise 1\Exercise 1\obj\Debug\net5.0\Exercise 1.csproj.CoreCompileInputs.cache
+C:\Users\ellis\source\repos\collegetrys\Arrays and Lists\Exercise 1\Exercise 1\obj\Debug\net5.0\Exercise 1.dll
+C:\Users\ellis\source\repos\collegetrys\Arrays and Lists\Exercise 1\Exercise 1\obj\Debug\net5.0\ref\Exercise 1.dll
+C:\Users\ellis\source\repos\collegetrys\Arrays and Lists\Exercise 1\Exercise 1\obj\Debug\net5.0\Exercise 1.pdb
+C:\Users\ellis\source\repos\collegetrys\Arrays and Lists\Exercise 1\Exercise 1\obj\Debug\net5.0\Exercise 1.genruntimeconfig.cache

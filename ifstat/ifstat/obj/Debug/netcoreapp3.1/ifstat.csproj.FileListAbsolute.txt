@@ -1,0 +1,13 @@
+C:\Users\ellis\source\repos\collegetrys\ifstat\ifstat\obj\Debug\netcoreapp3.1\ifstat.csprojAssemblyReference.cache
+C:\Users\ellis\source\repos\collegetrys\ifstat\ifstat\obj\Debug\netcoreapp3.1\ifstat.AssemblyInfoInputs.cache
+C:\Users\ellis\source\repos\collegetrys\ifstat\ifstat\obj\Debug\netcoreapp3.1\ifstat.AssemblyInfo.cs
+C:\Users\ellis\source\repos\collegetrys\ifstat\ifstat\obj\Debug\netcoreapp3.1\ifstat.csproj.CoreCompileInputs.cache
+C:\Users\ellis\source\repos\collegetrys\ifstat\ifstat\bin\Debug\netcoreapp3.1\ifstat.exe
+C:\Users\ellis\source\repos\collegetrys\ifstat\ifstat\bin\Debug\netcoreapp3.1\ifstat.deps.json
+C:\Users\ellis\source\repos\collegetrys\ifstat\ifstat\bin\Debug\netcoreapp3.1\ifstat.runtimeconfig.json
+C:\Users\ellis\source\repos\collegetrys\ifstat\ifstat\bin\Debug\netcoreapp3.1\ifstat.runtimeconfig.dev.json
+C:\Users\ellis\source\repos\collegetrys\ifstat\ifstat\bin\Debug\netcoreapp3.1\ifstat.dll
+C:\Users\ellis\source\repos\collegetrys\ifstat\ifstat\bin\Debug\netcoreapp3.1\ifstat.pdb
+C:\Users\ellis\source\repos\collegetrys\ifstat\ifstat\obj\Debug\netcoreapp3.1\ifstat.dll
+C:\Users\ellis\source\repos\collegetrys\ifstat\ifstat\obj\Debug\netcoreapp3.1\ifstat.pdb
+C:\Users\ellis\source\repos\collegetrys\ifstat\ifstat\obj\Debug\netcoreapp3.1\ifstat.genruntimeconfig.cache

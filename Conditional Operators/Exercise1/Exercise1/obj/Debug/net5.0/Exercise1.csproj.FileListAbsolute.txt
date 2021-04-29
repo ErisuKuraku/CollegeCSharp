@@ -1,0 +1,16 @@
+C:\Users\ellis\source\repos\collegetrys\Exercise1\Exercise1\bin\Debug\net5.0\Exercise1.exe
+C:\Users\ellis\source\repos\collegetrys\Exercise1\Exercise1\bin\Debug\net5.0\Exercise1.deps.json
+C:\Users\ellis\source\repos\collegetrys\Exercise1\Exercise1\bin\Debug\net5.0\Exercise1.runtimeconfig.json
+C:\Users\ellis\source\repos\collegetrys\Exercise1\Exercise1\bin\Debug\net5.0\Exercise1.runtimeconfig.dev.json
+C:\Users\ellis\source\repos\collegetrys\Exercise1\Exercise1\bin\Debug\net5.0\Exercise1.dll
+C:\Users\ellis\source\repos\collegetrys\Exercise1\Exercise1\bin\Debug\net5.0\ref\Exercise1.dll
+C:\Users\ellis\source\repos\collegetrys\Exercise1\Exercise1\bin\Debug\net5.0\Exercise1.pdb
+C:\Users\ellis\source\repos\collegetrys\Exercise1\Exercise1\obj\Debug\net5.0\Exercise1.csprojAssemblyReference.cache
+C:\Users\ellis\source\repos\collegetrys\Exercise1\Exercise1\obj\Debug\net5.0\Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellis\source\repos\collegetrys\Exercise1\Exercise1\obj\Debug\net5.0\Exercise1.AssemblyInfoInputs.cache
+C:\Users\ellis\source\repos\collegetrys\Exercise1\Exercise1\obj\Debug\net5.0\Exercise1.AssemblyInfo.cs
+C:\Users\ellis\source\repos\collegetrys\Exercise1\Exercise1\obj\Debug\net5.0\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\ellis\source\repos\collegetrys\Exercise1\Exercise1\obj\Debug\net5.0\Exercise1.dll
+C:\Users\ellis\source\repos\collegetrys\Exercise1\Exercise1\obj\Debug\net5.0\ref\Exercise1.dll
+C:\Users\ellis\source\repos\collegetrys\Exercise1\Exercise1\obj\Debug\net5.0\Exercise1.pdb
+C:\Users\ellis\source\repos\collegetrys\Exercise1\Exercise1\obj\Debug\net5.0\Exercise1.genruntimeconfig.cache

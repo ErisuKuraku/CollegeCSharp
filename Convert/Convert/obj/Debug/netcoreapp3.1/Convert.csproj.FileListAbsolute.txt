@@ -1,0 +1,13 @@
+C:\Users\ellis\source\repos\collegetrys\Convert\Convert\bin\Debug\netcoreapp3.1\Convert.exe
+C:\Users\ellis\source\repos\collegetrys\Convert\Convert\bin\Debug\netcoreapp3.1\Convert.deps.json
+C:\Users\ellis\source\repos\collegetrys\Convert\Convert\bin\Debug\netcoreapp3.1\Convert.runtimeconfig.json
+C:\Users\ellis\source\repos\collegetrys\Convert\Convert\bin\Debug\netcoreapp3.1\Convert.runtimeconfig.dev.json
+C:\Users\ellis\source\repos\collegetrys\Convert\Convert\bin\Debug\netcoreapp3.1\Convert.dll
+C:\Users\ellis\source\repos\collegetrys\Convert\Convert\bin\Debug\netcoreapp3.1\Convert.pdb
+C:\Users\ellis\source\repos\collegetrys\Convert\Convert\obj\Debug\netcoreapp3.1\Convert.csprojAssemblyReference.cache
+C:\Users\ellis\source\repos\collegetrys\Convert\Convert\obj\Debug\netcoreapp3.1\Convert.AssemblyInfoInputs.cache
+C:\Users\ellis\source\repos\collegetrys\Convert\Convert\obj\Debug\netcoreapp3.1\Convert.AssemblyInfo.cs
+C:\Users\ellis\source\repos\collegetrys\Convert\Convert\obj\Debug\netcoreapp3.1\Convert.csproj.CoreCompileInputs.cache
+C:\Users\ellis\source\repos\collegetrys\Convert\Convert\obj\Debug\netcoreapp3.1\Convert.dll
+C:\Users\ellis\source\repos\collegetrys\Convert\Convert\obj\Debug\netcoreapp3.1\Convert.pdb
+C:\Users\ellis\source\repos\collegetrys\Convert\Convert\obj\Debug\netcoreapp3.1\Convert.genruntimeconfig.cache

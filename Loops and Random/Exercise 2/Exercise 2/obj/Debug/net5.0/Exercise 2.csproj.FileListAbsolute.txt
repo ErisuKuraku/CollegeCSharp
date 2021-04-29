@@ -1,0 +1,16 @@
+C:\Users\ellis\source\repos\collegetrys\Loops and Random\Exercise 2\Exercise 2\bin\Debug\net5.0\Exercise 2.exe
+C:\Users\ellis\source\repos\collegetrys\Loops and Random\Exercise 2\Exercise 2\bin\Debug\net5.0\Exercise 2.deps.json
+C:\Users\ellis\source\repos\collegetrys\Loops and Random\Exercise 2\Exercise 2\bin\Debug\net5.0\Exercise 2.runtimeconfig.json
+C:\Users\ellis\source\repos\collegetrys\Loops and Random\Exercise 2\Exercise 2\bin\Debug\net5.0\Exercise 2.runtimeconfig.dev.json
+C:\Users\ellis\source\repos\collegetrys\Loops and Random\Exercise 2\Exercise 2\bin\Debug\net5.0\Exercise 2.dll
+C:\Users\ellis\source\repos\collegetrys\Loops and Random\Exercise 2\Exercise 2\bin\Debug\net5.0\ref\Exercise 2.dll
+C:\Users\ellis\source\repos\collegetrys\Loops and Random\Exercise 2\Exercise 2\bin\Debug\net5.0\Exercise 2.pdb
+C:\Users\ellis\source\repos\collegetrys\Loops and Random\Exercise 2\Exercise 2\obj\Debug\net5.0\Exercise 2.csprojAssemblyReference.cache
+C:\Users\ellis\source\repos\collegetrys\Loops and Random\Exercise 2\Exercise 2\obj\Debug\net5.0\Exercise 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellis\source\repos\collegetrys\Loops and Random\Exercise 2\Exercise 2\obj\Debug\net5.0\Exercise 2.AssemblyInfoInputs.cache
+C:\Users\ellis\source\repos\collegetrys\Loops and Random\Exercise 2\Exercise 2\obj\Debug\net5.0\Exercise 2.AssemblyInfo.cs
+C:\Users\ellis\source\repos\collegetrys\Loops and Random\Exercise 2\Exercise 2\obj\Debug\net5.0\Exercise 2.csproj.CoreCompileInputs.cache
+C:\Users\ellis\source\repos\collegetrys\Loops and Random\Exercise 2\Exercise 2\obj\Debug\net5.0\Exercise 2.dll
+C:\Users\ellis\source\repos\collegetrys\Loops and Random\Exercise 2\Exercise 2\obj\Debug\net5.0\ref\Exercise 2.dll
+C:\Users\ellis\source\repos\collegetrys\Loops and Random\Exercise 2\Exercise 2\obj\Debug\net5.0\Exercise 2.pdb
+C:\Users\ellis\source\repos\collegetrys\Loops and Random\Exercise 2\Exercise 2\obj\Debug\net5.0\Exercise 2.genruntimeconfig.cache

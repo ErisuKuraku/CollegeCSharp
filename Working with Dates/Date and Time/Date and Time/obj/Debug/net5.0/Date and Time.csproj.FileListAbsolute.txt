@@ -1,0 +1,16 @@
+C:\Users\ellis\source\repos\collegetrys\Working with Dates\Date and Time\Date and Time\bin\Debug\net5.0\Date and Time.exe
+C:\Users\ellis\source\repos\collegetrys\Working with Dates\Date and Time\Date and Time\bin\Debug\net5.0\Date and Time.deps.json
+C:\Users\ellis\source\repos\collegetrys\Working with Dates\Date and Time\Date and Time\bin\Debug\net5.0\Date and Time.runtimeconfig.json
+C:\Users\ellis\source\repos\collegetrys\Working with Dates\Date and Time\Date and Time\bin\Debug\net5.0\Date and Time.runtimeconfig.dev.json
+C:\Users\ellis\source\repos\collegetrys\Working with Dates\Date and Time\Date and Time\bin\Debug\net5.0\Date and Time.dll
+C:\Users\ellis\source\repos\collegetrys\Working with Dates\Date and Time\Date and Time\bin\Debug\net5.0\ref\Date and Time.dll
+C:\Users\ellis\source\repos\collegetrys\Working with Dates\Date and Time\Date and Time\bin\Debug\net5.0\Date and Time.pdb
+C:\Users\ellis\source\repos\collegetrys\Working with Dates\Date and Time\Date and Time\obj\Debug\net5.0\Date and Time.csprojAssemblyReference.cache
+C:\Users\ellis\source\repos\collegetrys\Working with Dates\Date and Time\Date and Time\obj\Debug\net5.0\Date and Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellis\source\repos\collegetrys\Working with Dates\Date and Time\Date and Time\obj\Debug\net5.0\Date and Time.AssemblyInfoInputs.cache
+C:\Users\ellis\source\repos\collegetrys\Working with Dates\Date and Time\Date and Time\obj\Debug\net5.0\Date and Time.AssemblyInfo.cs
+C:\Users\ellis\source\repos\collegetrys\Working with Dates\Date and Time\Date and Time\obj\Debug\net5.0\Date and Time.csproj.CoreCompileInputs.cache
+C:\Users\ellis\source\repos\collegetrys\Working with Dates\Date and Time\Date and Time\obj\Debug\net5.0\Date and Time.dll
+C:\Users\ellis\source\repos\collegetrys\Working with Dates\Date and Time\Date and Time\obj\Debug\net5.0\ref\Date and Time.dll
+C:\Users\ellis\source\repos\collegetrys\Working with Dates\Date and Time\Date and Time\obj\Debug\net5.0\Date and Time.pdb
+C:\Users\ellis\source\repos\collegetrys\Working with Dates\Date and Time\Date and Time\obj\Debug\net5.0\Date and Time.genruntimeconfig.cache

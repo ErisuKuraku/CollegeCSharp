@@ -1,0 +1,16 @@
+C:\Users\ellis\source\repos\collegetrys\Loops and Random\Exercise 3\Exercise 3\bin\Debug\net5.0\Exercise 3.exe
+C:\Users\ellis\source\repos\collegetrys\Loops and Random\Exercise 3\Exercise 3\bin\Debug\net5.0\Exercise 3.deps.json
+C:\Users\ellis\source\repos\collegetrys\Loops and Random\Exercise 3\Exercise 3\bin\Debug\net5.0\Exercise 3.runtimeconfig.json
+C:\Users\ellis\source\repos\collegetrys\Loops and Random\Exercise 3\Exercise 3\bin\Debug\net5.0\Exercise 3.runtimeconfig.dev.json
+C:\Users\ellis\source\repos\collegetrys\Loops and Random\Exercise 3\Exercise 3\bin\Debug\net5.0\Exercise 3.dll
+C:\Users\ellis\source\repos\collegetrys\Loops and Random\Exercise 3\Exercise 3\bin\Debug\net5.0\ref\Exercise 3.dll
+C:\Users\ellis\source\repos\collegetrys\Loops and Random\Exercise 3\Exercise 3\bin\Debug\net5.0\Exercise 3.pdb
+C:\Users\ellis\source\repos\collegetrys\Loops and Random\Exercise 3\Exercise 3\obj\Debug\net5.0\Exercise 3.csprojAssemblyReference.cache
+C:\Users\ellis\source\repos\collegetrys\Loops and Random\Exercise 3\Exercise 3\obj\Debug\net5.0\Exercise 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellis\source\repos\collegetrys\Loops and Random\Exercise 3\Exercise 3\obj\Debug\net5.0\Exercise 3.AssemblyInfoInputs.cache
+C:\Users\ellis\source\repos\collegetrys\Loops and Random\Exercise 3\Exercise 3\obj\Debug\net5.0\Exercise 3.AssemblyInfo.cs
+C:\Users\ellis\source\repos\collegetrys\Loops and Random\Exercise 3\Exercise 3\obj\Debug\net5.0\Exercise 3.csproj.CoreCompileInputs.cache
+C:\Users\ellis\source\repos\collegetrys\Loops and Random\Exercise 3\Exercise 3\obj\Debug\net5.0\Exercise 3.dll
+C:\Users\ellis\source\repos\collegetrys\Loops and Random\Exercise 3\Exercise 3\obj\Debug\net5.0\ref\Exercise 3.dll
+C:\Users\ellis\source\repos\collegetrys\Loops and Random\Exercise 3\Exercise 3\obj\Debug\net5.0\Exercise 3.pdb
+C:\Users\ellis\source\repos\collegetrys\Loops and Random\Exercise 3\Exercise 3\obj\Debug\net5.0\Exercise 3.genruntimeconfig.cache

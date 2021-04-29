@@ -1,0 +1,13 @@
+C:\Users\ellis\source\repos\collegetrys\CPlayground\CPlayground\bin\Debug\netcoreapp3.1\CPlayground.exe
+C:\Users\ellis\source\repos\collegetrys\CPlayground\CPlayground\bin\Debug\netcoreapp3.1\CPlayground.deps.json
+C:\Users\ellis\source\repos\collegetrys\CPlayground\CPlayground\bin\Debug\netcoreapp3.1\CPlayground.runtimeconfig.json
+C:\Users\ellis\source\repos\collegetrys\CPlayground\CPlayground\bin\Debug\netcoreapp3.1\CPlayground.runtimeconfig.dev.json
+C:\Users\ellis\source\repos\collegetrys\CPlayground\CPlayground\bin\Debug\netcoreapp3.1\CPlayground.dll
+C:\Users\ellis\source\repos\collegetrys\CPlayground\CPlayground\bin\Debug\netcoreapp3.1\CPlayground.pdb
+C:\Users\ellis\source\repos\collegetrys\CPlayground\CPlayground\obj\Debug\netcoreapp3.1\CPlayground.csprojAssemblyReference.cache
+C:\Users\ellis\source\repos\collegetrys\CPlayground\CPlayground\obj\Debug\netcoreapp3.1\CPlayground.AssemblyInfoInputs.cache
+C:\Users\ellis\source\repos\collegetrys\CPlayground\CPlayground\obj\Debug\netcoreapp3.1\CPlayground.AssemblyInfo.cs
+C:\Users\ellis\source\repos\collegetrys\CPlayground\CPlayground\obj\Debug\netcoreapp3.1\CPlayground.csproj.CoreCompileInputs.cache
+C:\Users\ellis\source\repos\collegetrys\CPlayground\CPlayground\obj\Debug\netcoreapp3.1\CPlayground.dll
+C:\Users\ellis\source\repos\collegetrys\CPlayground\CPlayground\obj\Debug\netcoreapp3.1\CPlayground.pdb
+C:\Users\ellis\source\repos\collegetrys\CPlayground\CPlayground\obj\Debug\netcoreapp3.1\CPlayground.genruntimeconfig.cache

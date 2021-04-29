@@ -1,0 +1,16 @@
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\System.IO Namespace\Exercise - Directory\Exercise - Directory\bin\Debug\net5.0\Exercise - Directory.exe
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\System.IO Namespace\Exercise - Directory\Exercise - Directory\bin\Debug\net5.0\Exercise - Directory.deps.json
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\System.IO Namespace\Exercise - Directory\Exercise - Directory\bin\Debug\net5.0\Exercise - Directory.runtimeconfig.json
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\System.IO Namespace\Exercise - Directory\Exercise - Directory\bin\Debug\net5.0\Exercise - Directory.runtimeconfig.dev.json
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\System.IO Namespace\Exercise - Directory\Exercise - Directory\bin\Debug\net5.0\Exercise - Directory.dll
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\System.IO Namespace\Exercise - Directory\Exercise - Directory\bin\Debug\net5.0\ref\Exercise - Directory.dll
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\System.IO Namespace\Exercise - Directory\Exercise - Directory\bin\Debug\net5.0\Exercise - Directory.pdb
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\System.IO Namespace\Exercise - Directory\Exercise - Directory\obj\Debug\net5.0\Exercise - Directory.csprojAssemblyReference.cache
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\System.IO Namespace\Exercise - Directory\Exercise - Directory\obj\Debug\net5.0\Exercise - Directory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\System.IO Namespace\Exercise - Directory\Exercise - Directory\obj\Debug\net5.0\Exercise - Directory.AssemblyInfoInputs.cache
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\System.IO Namespace\Exercise - Directory\Exercise - Directory\obj\Debug\net5.0\Exercise - Directory.AssemblyInfo.cs
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\System.IO Namespace\Exercise - Directory\Exercise - Directory\obj\Debug\net5.0\Exercise - Directory.csproj.CoreCompileInputs.cache
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\System.IO Namespace\Exercise - Directory\Exercise - Directory\obj\Debug\net5.0\Exercise - Directory.dll
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\System.IO Namespace\Exercise - Directory\Exercise - Directory\obj\Debug\net5.0\ref\Exercise - Directory.dll
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\System.IO Namespace\Exercise - Directory\Exercise - Directory\obj\Debug\net5.0\Exercise - Directory.pdb
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\System.IO Namespace\Exercise - Directory\Exercise - Directory\obj\Debug\net5.0\Exercise - Directory.genruntimeconfig.cache

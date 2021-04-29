@@ -1,0 +1,5 @@
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\Procedural Programming\Exercise 2\Exercise 2\obj\Debug\net5.0\Exercise 2.csprojAssemblyReference.cache
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\Procedural Programming\Exercise 2\Exercise 2\obj\Debug\net5.0\Exercise 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\Procedural Programming\Exercise 2\Exercise 2\obj\Debug\net5.0\Exercise 2.AssemblyInfoInputs.cache
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\Procedural Programming\Exercise 2\Exercise 2\obj\Debug\net5.0\Exercise 2.AssemblyInfo.cs
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\Procedural Programming\Exercise 2\Exercise 2\obj\Debug\net5.0\Exercise 2.csproj.CoreCompileInputs.cache

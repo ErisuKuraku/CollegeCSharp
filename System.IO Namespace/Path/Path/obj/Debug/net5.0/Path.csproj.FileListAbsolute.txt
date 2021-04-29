@@ -1,0 +1,16 @@
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\System.IO Namespace\Path\Path\bin\Debug\net5.0\Path.exe
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\System.IO Namespace\Path\Path\bin\Debug\net5.0\Path.deps.json
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\System.IO Namespace\Path\Path\bin\Debug\net5.0\Path.runtimeconfig.json
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\System.IO Namespace\Path\Path\bin\Debug\net5.0\Path.runtimeconfig.dev.json
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\System.IO Namespace\Path\Path\bin\Debug\net5.0\Path.dll
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\System.IO Namespace\Path\Path\bin\Debug\net5.0\ref\Path.dll
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\System.IO Namespace\Path\Path\bin\Debug\net5.0\Path.pdb
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\System.IO Namespace\Path\Path\obj\Debug\net5.0\Path.csprojAssemblyReference.cache
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\System.IO Namespace\Path\Path\obj\Debug\net5.0\Path.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\System.IO Namespace\Path\Path\obj\Debug\net5.0\Path.AssemblyInfoInputs.cache
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\System.IO Namespace\Path\Path\obj\Debug\net5.0\Path.AssemblyInfo.cs
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\System.IO Namespace\Path\Path\obj\Debug\net5.0\Path.csproj.CoreCompileInputs.cache
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\System.IO Namespace\Path\Path\obj\Debug\net5.0\Path.dll
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\System.IO Namespace\Path\Path\obj\Debug\net5.0\ref\Path.dll
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\System.IO Namespace\Path\Path\obj\Debug\net5.0\Path.pdb
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\System.IO Namespace\Path\Path\obj\Debug\net5.0\Path.genruntimeconfig.cache

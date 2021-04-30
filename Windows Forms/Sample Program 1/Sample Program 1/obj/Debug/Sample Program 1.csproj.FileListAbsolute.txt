@@ -1,0 +1,10 @@
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\Windows Forms\Sample Program 1\Sample Program 1\obj\Debug\Sample Program 1.csprojAssemblyReference.cache
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\Windows Forms\Sample Program 1\Sample Program 1\obj\Debug\Sample_Program_1.Form1.resources
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\Windows Forms\Sample Program 1\Sample Program 1\obj\Debug\Sample_Program_1.Properties.Resources.resources
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\Windows Forms\Sample Program 1\Sample Program 1\obj\Debug\Sample Program 1.csproj.GenerateResource.cache
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\Windows Forms\Sample Program 1\Sample Program 1\obj\Debug\Sample Program 1.csproj.CoreCompileInputs.cache
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\Windows Forms\Sample Program 1\Sample Program 1\bin\Debug\Sample Program 1.exe.config
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\Windows Forms\Sample Program 1\Sample Program 1\bin\Debug\Sample Program 1.exe
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\Windows Forms\Sample Program 1\Sample Program 1\bin\Debug\Sample Program 1.pdb
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\Windows Forms\Sample Program 1\Sample Program 1\obj\Debug\Sample Program 1.exe
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\Windows Forms\Sample Program 1\Sample Program 1\obj\Debug\Sample Program 1.pdb

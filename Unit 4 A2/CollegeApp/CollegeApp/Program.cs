@@ -7,26 +7,8 @@ namespace CollegeApp
         static void Main(string[] args)
         {
 
-            Participant p = new Participant();
-            p.setName("James");
-
-            Team t = new Team();
-            t.setName("James' Team");
-            t.addParticipant(p);
-            t.printTeam();
-
-            p.setName("John");
-            p.printParticipant();
-
-            Events e = new Events();
-            e.setName("Skillz");
-            e.setType("academic");
-
-            e.printEvent();
-
-            tournament o = new tournament();
-            o.setName("Small");
-            o.printTournament();
+            UI ui = new UI();
+                ui.mainMenu();
         }
     }
 }

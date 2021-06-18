@@ -5,7 +5,6 @@ C:\Users\ellis\Documents\GitHub\CollegeCSharp\Unit 4 A2\CollegeApp\CollegeApp\bi
 C:\Users\ellis\Documents\GitHub\CollegeCSharp\Unit 4 A2\CollegeApp\CollegeApp\bin\Debug\net5.0\CollegeApp.dll
 C:\Users\ellis\Documents\GitHub\CollegeCSharp\Unit 4 A2\CollegeApp\CollegeApp\bin\Debug\net5.0\ref\CollegeApp.dll
 C:\Users\ellis\Documents\GitHub\CollegeCSharp\Unit 4 A2\CollegeApp\CollegeApp\bin\Debug\net5.0\CollegeApp.pdb
-C:\Users\ellis\Documents\GitHub\CollegeCSharp\Unit 4 A2\CollegeApp\CollegeApp\obj\Debug\net5.0\CollegeApp.csprojAssemblyReference.cache
 C:\Users\ellis\Documents\GitHub\CollegeCSharp\Unit 4 A2\CollegeApp\CollegeApp\obj\Debug\net5.0\CollegeApp.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ellis\Documents\GitHub\CollegeCSharp\Unit 4 A2\CollegeApp\CollegeApp\obj\Debug\net5.0\CollegeApp.AssemblyInfoInputs.cache
 C:\Users\ellis\Documents\GitHub\CollegeCSharp\Unit 4 A2\CollegeApp\CollegeApp\obj\Debug\net5.0\CollegeApp.AssemblyInfo.cs
@@ -14,3 +13,4 @@ C:\Users\ellis\Documents\GitHub\CollegeCSharp\Unit 4 A2\CollegeApp\CollegeApp\ob
 C:\Users\ellis\Documents\GitHub\CollegeCSharp\Unit 4 A2\CollegeApp\CollegeApp\obj\Debug\net5.0\ref\CollegeApp.dll
 C:\Users\ellis\Documents\GitHub\CollegeCSharp\Unit 4 A2\CollegeApp\CollegeApp\obj\Debug\net5.0\CollegeApp.pdb
 C:\Users\ellis\Documents\GitHub\CollegeCSharp\Unit 4 A2\CollegeApp\CollegeApp\obj\Debug\net5.0\CollegeApp.genruntimeconfig.cache
+C:\Users\ellis\Documents\GitHub\CollegeCSharp\Unit 4 A2\CollegeApp\CollegeApp\obj\Debug\net5.0\CollegeApp.csproj.AssemblyReference.cache

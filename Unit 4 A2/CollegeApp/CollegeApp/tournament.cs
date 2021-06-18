@@ -16,7 +16,7 @@ namespace CollegeApp
         {
             if (events.Count >= 5)
             {
-                Console.WriteLine("Too many teams");
+                Console.WriteLine("Too many events");
             }
             else
             {

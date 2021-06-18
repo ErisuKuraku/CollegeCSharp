@@ -29,5 +29,10 @@ namespace CollegeApp
                 Console.WriteLine("This is not a valid type");
             }
         }
+
+        public void printEvent()
+        {
+            Console.WriteLine("A event called " + eventname);
+        }
     }
 }

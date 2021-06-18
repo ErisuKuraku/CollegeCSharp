@@ -24,7 +24,7 @@ namespace CollegeApp
             }
         }
 
-        public void setName(tournament o)
+        public void setName(string o)
         {
             this.tournamentname = o;
         }

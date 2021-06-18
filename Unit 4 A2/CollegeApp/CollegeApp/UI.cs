@@ -14,6 +14,9 @@ namespace CollegeApp
             while (!choice.Equals("quit"))
             {
                 Console.WriteLine("1 - Enter new participant");
+                Console.WriteLine("2 - Enter a new Team");
+                Console.WriteLine("3 - Enter a New Event");
+                Console.WriteLine("4 - Enter a new Tournament");
                 Console.WriteLine("or type quit");
                 choice = Console.ReadLine();
                 switch (choice)
@@ -27,6 +30,30 @@ namespace CollegeApp
                         break;
 
                     case "2":
+                        Console.WriteLine("Enter Team Name: ");
+                        string teamName = Console.ReadLine();
+                        Team t = new Team();
+                        t.setName(teamName);
+                        t.printTeam();
+                        break;
+
+                    case "3":
+                        Console.Write("Event Name: ");
+                        string eventName = Console.ReadLine();
+                        Console.WriteLine("Enter Type: ");
+                        string eventType = Console.ReadLine();
+                        Events e = new Events();
+                        e.setName(eventName);
+                        e.setType(eventType);
+                        e.printEvent();
+                        break;
+
+                    case "4":
+                        Console.WriteLine("Enter Tournament Name: ");
+                        string tournamentName = Console.ReadLine();
+                        tournament o = new tournament();
+                        o.setName(tournamentName);
+                        o.printTournament();
                         break;
                 }
             }

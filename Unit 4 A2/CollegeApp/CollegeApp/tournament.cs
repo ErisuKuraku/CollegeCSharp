@@ -24,6 +24,10 @@ namespace CollegeApp
             }
         }
 
+        public void setName(tournament o)
+        {
+            this.tournamentname = o;
+        }
         public string getEvent()
         {
             return eventname;
@@ -34,11 +38,17 @@ namespace CollegeApp
             Console.WriteLine("A team called " + events);
         }
 
+        public string getName()
+        {
+            return tournamentname;
+        }
+
         public void printTournament()
         {
+            Console.WriteLine("The Tournament is called " + tournamentname + " and the events are: ");
             for (int i = 0; i < events.Count; i++)
             {
-               // events[i].printEvent();
+               events[i].printEvent();
             }
         }
     }

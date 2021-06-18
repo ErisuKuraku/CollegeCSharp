@@ -23,6 +23,10 @@ namespace CollegeApp
             e.setType("academic");
 
             e.printEvent();
+
+            tournament o = new tournament();
+            o.setName("Small");
+            o.printTournament();
         }
     }
 }

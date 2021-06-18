@@ -32,7 +32,7 @@ namespace CollegeApp
 
         public void printEvent()
         {
-            Console.WriteLine("A event called " + eventname);
+            Console.WriteLine("A " + type + " event called " + eventname);
         }
     }
 }

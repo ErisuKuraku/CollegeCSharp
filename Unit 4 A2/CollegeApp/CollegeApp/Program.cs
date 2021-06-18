@@ -17,6 +17,12 @@ namespace CollegeApp
 
             p.setName("John");
             p.printParticipant();
+
+            Events e = new Events();
+            e.setName("Skillz");
+            e.setType("academic");
+
+            e.printEvent();
         }
     }
 }

@@ -24,11 +24,6 @@ namespace CollegeApp
             }
         }
 
-        public void setName(string s)
-        {
-            this.eventname = s;
-        }
-
         public string getEvent()
         {
             return eventname;

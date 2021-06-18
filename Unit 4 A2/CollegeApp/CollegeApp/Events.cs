@@ -17,6 +17,10 @@ namespace CollegeApp
             types.Add("academic");
             types.Add("sporting");
         }
+        public void setName(string s)
+        {
+            this.eventname = s;
+        }
 
         public void setType(string s)
         {

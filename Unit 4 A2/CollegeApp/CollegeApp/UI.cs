@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading.Channels;
 using System.Threading.Tasks;
 
 namespace CollegeApp
@@ -10,6 +11,8 @@ namespace CollegeApp
     {
         List<Participant> allParticipants = new List<Participant>();
         List<Team> allTeams = new List<Team>();
+        List<Events> allEvents = new List<Events>();
+        private List<tournament> allTournaments = new List<tournament>();
 
         public int selectTeam()
         {
@@ -37,6 +40,32 @@ namespace CollegeApp
             return result;
         }
 
+        public int selectEvent()
+        {
+            for (int i = 0; i < allEvents.Count; i++)
+            {
+                Console.WriteLine(i + ": " + allEvents[i].getName());
+            }
+
+            Console.WriteLine("Select event: ");
+            string input = Console.ReadLine();
+            int result = Int32.Parse(input);
+            return result;
+        }
+
+        public int selectTournament()
+        {
+            for (int i = 0; i < allTournaments.Count; i++)
+            {
+                Console.WriteLine(i + ": " + allTournaments[i].getName());
+            }
+
+            Console.WriteLine("Select tournament: ");
+            string input = Console.ReadLine();
+            int result = Int32.Parse(input);
+            return result;
+        }
+
         public void mainMenu()
         {
             string choice = "start";
@@ -48,6 +77,7 @@ namespace CollegeApp
                 Console.WriteLine("4 - Enter a new Tournament");
                 Console.WriteLine("-------------------------------------");
                 Console.WriteLine("5 - Add participant to team");
+                Console.WriteLine("6 - Add team to event");
                 Console.WriteLine("or type quit");
                 choice = Console.ReadLine();
                 switch (choice)
@@ -95,6 +125,11 @@ namespace CollegeApp
                         teamSelected.addParticipant(partSelected);
                         teamSelected.printTeam();
                         partSelected.printParticipant();
+                        break;
+
+                    case "6":
+                        teamSelected = allTeams[selectTeam()];
+                        Events eventSelected = allEvents[selectEvent()]
                         break;
                 }
             }

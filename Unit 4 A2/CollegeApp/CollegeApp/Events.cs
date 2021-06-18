@@ -22,6 +22,11 @@ namespace CollegeApp
             this.eventname = s;
         }
 
+        public string getName()
+        {
+            return eventname;
+        }
+
         public void setType(string s)
         {
             if (types.Contains(s))

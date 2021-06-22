@@ -129,7 +129,8 @@ namespace CollegeApp
 
                     case "6":
                         teamSelected = allTeams[selectTeam()];
-                        Events eventSelected = allEvents[selectEvent()]
+                        Events eventSelected = allEvents[selectEvent()];
+                        eventSelected
                         break;
                 }
             }

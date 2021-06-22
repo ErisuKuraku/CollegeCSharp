@@ -10,6 +10,7 @@ namespace CollegeApp
     class Events
     { 
         string eventname;
+        List<Team> teams =new List<Team>();
         List<string> types = new List<string>();
         string type;
         public Events()
@@ -42,6 +43,18 @@ namespace CollegeApp
         public void printEvent()
         {
             Console.WriteLine("A " + type + " event called " + eventname);
+        }
+
+        public void addTeam(Team t)
+        {
+            if (teams.Count >= 4)
+            {
+                Console.WriteLine("Too many teams");
+            }
+            else
+            {
+                teams.Add(t);
+            }
         }
     }
 }

@@ -78,6 +78,7 @@ namespace CollegeApp
                 Console.WriteLine("-------------------------------------");
                 Console.WriteLine("5 - Add participant to team");
                 Console.WriteLine("6 - Add team to event");
+                Console.WriteLine("7 - Add event to Tournament");
                 Console.WriteLine("or type quit");
                 choice = Console.ReadLine();
                 switch (choice)
@@ -130,7 +131,17 @@ namespace CollegeApp
                     case "6":
                         teamSelected = allTeams[selectTeam()];
                         Events eventSelected = allEvents[selectEvent()];
-                        eventSelected
+                        eventSelected.addTeam(allTeams[selectTeam()]);
+                        eventSelected.printEvent();
+                        teamSelected.printTeam();
+                        break;
+
+                    case "7":
+                        eventSelected = allEvents[selectEvent()];
+                        tournament tournamentSelected = allTournaments[selectTournament()];
+                        tournamentSelected.addEvent(allEvents[selectEvent()]);
+                        tournamentSelected.printTournament();
+                        eventSelected.printEvent();
                         break;
                 }
             }

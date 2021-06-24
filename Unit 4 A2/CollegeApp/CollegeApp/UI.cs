@@ -71,11 +71,12 @@ namespace CollegeApp
             string choice = "start";
             while (!choice.Equals("quit"))
             {
+                Console.WriteLine("");
                 Console.WriteLine("1 - Enter new participant");
                 Console.WriteLine("2 - Enter a new Team");
                 Console.WriteLine("3 - Enter a New Event");
                 Console.WriteLine("4 - Enter a new Tournament");
-                Console.WriteLine("-------------------------------------");
+                Console.WriteLine("-------------------------------");
                 Console.WriteLine("5 - Add participant to team");
                 Console.WriteLine("6 - Add team to event");
                 Console.WriteLine("7 - Add event to Tournament");

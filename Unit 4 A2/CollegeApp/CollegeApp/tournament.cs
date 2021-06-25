@@ -11,6 +11,7 @@ namespace CollegeApp
         string tournamentname;
         List<Events> events =new List<Events>();
         string eventname;
+        
 
         public void addEvent(Events e)
         {

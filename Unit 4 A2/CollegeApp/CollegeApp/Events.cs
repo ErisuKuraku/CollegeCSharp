@@ -15,10 +15,34 @@ namespace CollegeApp
         List<string> types = new List<string>();
         string type;
         private Dictionary<Team, int> placing = new Dictionary<Team, int>();
+        private Dictionary<Team, int> allPoints = new Dictionary<Team, int>();
 
         public void allocatePlace(Team t, int i)
         {
-            placing.Add(t, i);
+            int points = 0;
+            switch (i)
+            {
+                case 1:
+                    points = 15;
+                    break;
+                case 2:
+                    points = 10;
+                    break;
+                case 3:
+                    points = 5;
+                    break;
+                case 4:
+                    points = 1;
+                    break;
+
+            }
+            placing.Add(t, points);
+        }
+
+        public void pointsTally(Team t, int i)
+        {
+
+            allPoints.Add(t, );
         }
 
         public int getPoints(Team t)

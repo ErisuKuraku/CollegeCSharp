@@ -155,13 +155,16 @@ namespace CollegeApp
                         
                         eventSelected.allocatePlace(teamSelected, 1);
                         eventSelected.getPoints(teamSelected);
+                        eventSelected.pointsTally(teamSelected, 1);
+
                         for (int i= 2; i < allTeams.Count; i++)
                         {
                             Console.WriteLine("Which team came in position "+ i + "?");
                             teamSelected = allTeams[selectTeam()];
-                            eventSelected.allocatePlace(teamSelected, 1);
+                            eventSelected.allocatePlace(teamSelected, i);
                             eventSelected.getPoints(teamSelected);
-                            // Place add to whole tournament
+                            eventSelected.pointsTally(teamSelected, i);
+                            
 
                         }
                         break;

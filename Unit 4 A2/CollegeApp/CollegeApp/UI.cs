@@ -161,6 +161,7 @@ namespace CollegeApp
                             teamSelected = allTeams[selectTeam()];
                             eventSelected.allocatePlace(teamSelected, 1);
                             eventSelected.getPoints(teamSelected);
+                            // Place add to whole tournament
 
                         }
                         break;

@@ -80,6 +80,8 @@ namespace CollegeApp
                 Console.WriteLine("5 - Add participant to team");
                 Console.WriteLine("6 - Add team to event");
                 Console.WriteLine("7 - Add event to Tournament");
+                Console.WriteLine("-------------------------------");
+                Console.WriteLine("8 - Assign Rankings");
                 Console.WriteLine("or type quit");
                 choice = Console.ReadLine();
                 switch (choice)
@@ -143,6 +145,22 @@ namespace CollegeApp
                         tournamentSelected.addEvent(allEvents[selectEvent()]);
                         tournamentSelected.printTournament();
                         eventSelected.printEvent();
+                        break;
+
+                    case "8":
+                        tournamentSelected = allTournaments[selectTournament()];
+                        eventSelected = allEvents[selectEvent()];
+                        Console.WriteLine("Which team came first?: ");
+                        teamSelected = allTeams[selectTeam()];
+                        t = teamSelected;
+                        eventSelected.getPoints(t);
+                        for (int i = 0; i < allTeams.Count; i++)
+                        {
+                            Console.WriteLine("Which team is next?");
+                            teamSelected = allTeams[selectTeam()];
+                            t = teamSelected;
+                            eventSelected.getPoints(t);
+                        }
                         break;
                 }
             }

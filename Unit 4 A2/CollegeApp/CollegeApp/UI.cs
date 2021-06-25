@@ -152,14 +152,16 @@ namespace CollegeApp
                         eventSelected = allEvents[selectEvent()];
                         Console.WriteLine("Which team came first?: ");
                         teamSelected = allTeams[selectTeam()];
-                        t = teamSelected;
-                        eventSelected.getPoints(t);
-                        for (int i = 0; i < allTeams.Count; i++)
+                        
+                        eventSelected.allocatePlace(teamSelected, 1);
+                        eventSelected.getPoints(teamSelected);
+                        for (int i= 2; i < allTeams.Count; i++)
                         {
-                            Console.WriteLine("Which team is next?");
+                            Console.WriteLine("Which team came in position "+ i + "?");
                             teamSelected = allTeams[selectTeam()];
-                            t = teamSelected;
-                            eventSelected.getPoints(t);
+                            eventSelected.allocatePlace(teamSelected, 1);
+                            eventSelected.getPoints(teamSelected);
+
                         }
                         break;
                 }

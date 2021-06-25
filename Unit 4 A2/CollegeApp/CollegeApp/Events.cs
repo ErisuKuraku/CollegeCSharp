@@ -16,7 +16,7 @@ namespace CollegeApp
         string type;
         private Dictionary<Team, int> placing = new Dictionary<Team, int>();
 
-        public void allLocatePlace(Team t, int i)
+        public void allocatePlace(Team t, int i)
         {
             placing.Add(t, i);
         }

@@ -18,7 +18,7 @@ namespace CollegeApp
         {
             for (int i = 0; i < allTeams.Count; i++)
             {
-                Console.WriteLine(i + ": " + allTeams[i].getName());
+                Console.WriteLine(i + ": " + allTeams[i].getName());   // Gets all of the teams in a list until they're none left
             }
 
             Console.WriteLine("Select team: ");
@@ -44,7 +44,7 @@ namespace CollegeApp
         {
             for (int i = 0; i < allEvents.Count; i++)
             {
-                Console.WriteLine(i + ": " + allEvents[i].getName());
+                Console.WriteLine(i + ": " + allEvents[i].getName());  //// Gets all of the events in a list until they're none left
             }
 
             Console.WriteLine("Select event: ");
@@ -57,7 +57,7 @@ namespace CollegeApp
         {
             for (int i = 0; i < allTournaments.Count; i++)
             {
-                Console.WriteLine(i + ": " + allTournaments[i].getName());
+                Console.WriteLine(i + ": " + allTournaments[i].getName());  // Gets all of the tournaments in a list until they're none left
             }
 
             Console.WriteLine("Select tournament: ");
@@ -71,6 +71,10 @@ namespace CollegeApp
             string choice = "start";
             while (!choice.Equals("quit"))
             {
+                Console.Clear();     // Clears the terminal window before running another option
+                Console.WriteLine("-----College Tournament App-----");
+                Console.WriteLine("");
+                Console.WriteLine("Main Menu:");
                 Console.WriteLine("");
                 Console.WriteLine("1 - Enter new participant");
                 Console.WriteLine("2 - Enter a new Team");
@@ -87,15 +91,25 @@ namespace CollegeApp
                 switch (choice)
                 {
                     case "1":
+                        Console.Clear();
+                        Console.WriteLine("");
+                        Console.WriteLine("1 - Enter new participant");
+                        Console.WriteLine("");
+
                         Console.Write("Enter Name: ");
                         string name = Console.ReadLine();
                         Participant p = new Participant();
                         p.setName(name);
                         p.printParticipant();
-                        allParticipants.Add(p);
+                        allParticipants.Add(p);  // Adds "p" to the all participants list
                         break;
 
                     case "2":
+                        Console.Clear();
+                        Console.WriteLine("");
+                        Console.WriteLine("2 - Enter a new Team");
+                        Console.WriteLine("");
+
                         Console.WriteLine("Enter Team Name: ");
                         string teamName = Console.ReadLine();
                         Team t = new Team();
@@ -105,6 +119,11 @@ namespace CollegeApp
                         break;
 
                     case "3":
+                        Console.Clear();
+                        Console.WriteLine("");
+                        Console.WriteLine("3 - Enter a New Event");
+                        Console.WriteLine("");
+
                         Console.Write("Event Name: ");
                         string eventName = Console.ReadLine();
                         Console.WriteLine("Enter Type: ");
@@ -116,6 +135,11 @@ namespace CollegeApp
                         break;
 
                     case "4":
+                        Console.Clear();
+                        Console.WriteLine("");
+                        Console.WriteLine("4 - Enter a new Tournament");
+                        Console.WriteLine("");
+
                         Console.WriteLine("Enter Tournament Name: ");
                         string tournamentName = Console.ReadLine();
                         tournament o = new tournament();
@@ -124,6 +148,11 @@ namespace CollegeApp
                         break;
 
                     case "5":
+                        Console.Clear();
+                        Console.WriteLine("");
+                        Console.WriteLine("5 - Add participant to team");
+                        Console.WriteLine("");
+
                         Team teamSelected = allTeams[selectTeam()];
                         Participant partSelected = allParticipants[selectParticipant()];
                         teamSelected.addParticipant(partSelected);
@@ -132,6 +161,11 @@ namespace CollegeApp
                         break;
 
                     case "6":
+                        Console.Clear();
+                        Console.WriteLine("");
+                        Console.WriteLine("6 - Add team to event");
+                        Console.WriteLine("");
+
                         teamSelected = allTeams[selectTeam()];
                         Events eventSelected = allEvents[selectEvent()];
                         eventSelected.addTeam(allTeams[selectTeam()]);
@@ -140,6 +174,11 @@ namespace CollegeApp
                         break;
 
                     case "7":
+                        Console.Clear();
+                        Console.WriteLine("");
+                        Console.WriteLine("7 - Add event to Tournament");
+                        Console.WriteLine("");
+
                         eventSelected = allEvents[selectEvent()];
                         tournament tournamentSelected = allTournaments[selectTournament()];
                         tournamentSelected.addEvent(allEvents[selectEvent()]);
@@ -148,6 +187,11 @@ namespace CollegeApp
                         break;
 
                     case "8":
+                        Console.Clear();
+                        Console.WriteLine("");
+                        Console.WriteLine("8 - Assign Rankings");
+                        Console.WriteLine("");
+
                         tournamentSelected = allTournaments[selectTournament()];
                         eventSelected = allEvents[selectEvent()];
                         Console.WriteLine("Which team came first?: ");

@@ -42,7 +42,7 @@ namespace CollegeApp
         public void pointsTally(Team t, int i)
         {
 
-            allPoints.Add(t, );
+            allPoints.Add(t, i);
         }
 
         public int getPoints(Team t)

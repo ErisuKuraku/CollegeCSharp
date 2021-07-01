@@ -15,7 +15,7 @@ namespace CollegeApp
 
         public void addEvent(Events e)
         {
-            if (events.Count >= 5)
+            if (events.Count >= 5)     // Checks how many events are currently assigned
             {
                 Console.WriteLine("Too many events");
             }
@@ -46,7 +46,7 @@ namespace CollegeApp
 
         public void printTournament()
         {
-            Console.WriteLine("The Tournament is called " + tournamentname + " and the events are: ");
+            Console.WriteLine("The Tournament is called " + tournamentname + " and the events are: "); // Displays name and contents of tournament
             for (int i = 0; i < events.Count; i++)
             {
                events[i].printEvent();

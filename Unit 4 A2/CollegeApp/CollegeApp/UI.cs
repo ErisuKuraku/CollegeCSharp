@@ -129,9 +129,9 @@ namespace CollegeApp
                         Console.WriteLine("Enter Type: ");
                         string eventType = Console.ReadLine();
                         Events e = new Events();
-                        e.setName(eventName);
-                        e.setType(eventType);
-                        e.printEvent();
+                        e.setName(eventName);    // Sets name to the event listing
+                        e.setType(eventType);    // sets its type
+                        e.printEvent();          // Then prints it out
                         break;
 
                     case "4":
@@ -168,7 +168,7 @@ namespace CollegeApp
 
                         teamSelected = allTeams[selectTeam()];
                         Events eventSelected = allEvents[selectEvent()];
-                        eventSelected.addTeam(allTeams[selectTeam()]);
+                        eventSelected.addTeam(allTeams[selectTeam()]);   // Displays selection menu to pick from list of teams
                         eventSelected.printEvent();
                         teamSelected.printTeam();
                         break;

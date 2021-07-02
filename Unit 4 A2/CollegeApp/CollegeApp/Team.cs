@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CollegeApp
 {
-    class Team
+    class Team : AssignmentObject
     {
         string teamname;
         List<Participant> members =new List<Participant>();

@@ -7,23 +7,13 @@ using System.Threading.Tasks;
 
 namespace CollegeApp
 {
-    class Participant
+    class Participant : AssignmentObject
     {
-        string personname;
-
-        public void setName(string s)
-        {
-            this.personname = s;
-        }
-
-        public string getName()
-        {
-            return personname;
-        }
+  
 
         public void printParticipant()
         {
-            Console.WriteLine("A participant called " + personname);
+            System.Console.WriteLine("A participant called " + this.getName());
         }
     }
 }

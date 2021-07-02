@@ -8,9 +8,8 @@ using System.Threading.Tasks;
 
 namespace CollegeApp
 {
-    class Events
-    { 
-        string eventname;
+    class Events : AssignmentObject
+    {
         List<Team> teams =new List<Team>();
         List<string> types = new List<string>();
         string type;
@@ -75,15 +74,6 @@ namespace CollegeApp
             types.Add("academic");
             types.Add("sporting");
         }
-        public void setName(string s)
-        {
-            this.eventname = s;
-        }
-
-        public string getName()
-        {
-            return eventname;
-        }
 
         public void setType(string s)
         {
@@ -99,7 +89,7 @@ namespace CollegeApp
 
         public void printEvent()
         {
-            Console.WriteLine("A " + type + " event called " + eventname);
+            Console.WriteLine("A " + type + " event called " + this.getName());
         }
 
         public void addTeam(Team t)

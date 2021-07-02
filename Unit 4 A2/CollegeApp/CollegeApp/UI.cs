@@ -13,58 +13,36 @@ namespace CollegeApp
         List<Team> allTeams = new List<Team>();
         List<Events> allEvents = new List<Events>();
         private List<tournament> allTournaments = new List<tournament>();
+        private List <AssignmentObject> listToSearch;
 
-        public int selectTeam()
+        public int selectWhatever(string whatever)
         {
-            for (int i = 0; i < allTeams.Count; i++)
+            listToSearch = new List<AssignmentObject>();
+            switch (whatever)
             {
-                Console.WriteLine(i + ": " + allTeams[i].getName());   // Gets all of the teams in a list until they're none left
+                case "team":
+                    listToSearch.AddRange(allTeams);
+                    break;
+                case "participant":
+                    listToSearch.AddRange(allParticipants);
+                    break;
+                case "events":
+                    listToSearch.AddRange(allEvents);
+                    break;
+                case "tournament":
+                    listToSearch.AddRange(allTournaments);
+                    break;
             }
-
+            for (int i = 0; i < listToSearch.Count; i++)
+            {
+                Console.WriteLine(i + ": " + listToSearch[i].getName());
+            }
             Console.WriteLine("Select team: ");
             string input = Console.ReadLine();
             int result = Int32.Parse(input);
             return result;
         }
 
-        public int selectParticipant()
-        {
-            for (int i = 0; i < allParticipants.Count; i++)
-            {
-                Console.WriteLine(i + ": " + allParticipants[i].getName());
-            }
-
-            Console.WriteLine("Select Participant: ");
-            string input = Console.ReadLine();
-            int result = Int32.Parse(input);
-            return result;
-        }
-
-        public int selectEvent()
-        {
-            for (int i = 0; i < allEvents.Count; i++)
-            {
-                Console.WriteLine(i + ": " + allEvents[i].getName());  //// Gets all of the events in a list until they're none left
-            }
-
-            Console.WriteLine("Select event: ");
-            string input = Console.ReadLine();
-            int result = Int32.Parse(input);
-            return result;
-        }
-
-        public int selectTournament()
-        {
-            for (int i = 0; i < allTournaments.Count; i++)
-            {
-                Console.WriteLine(i + ": " + allTournaments[i].getName());  // Gets all of the tournaments in a list until they're none left
-            }
-
-            Console.WriteLine("Select tournament: ");
-            string input = Console.ReadLine();
-            int result = Int32.Parse(input);
-            return result;
-        }
 
         public void mainMenu()
         {
@@ -112,9 +90,9 @@ namespace CollegeApp
 
                         Console.WriteLine("Enter Team Name: ");
                         string teamName = Console.ReadLine();
-                        Team t = new Team();
-                        t.setName(teamName);
-                        t.printTeam();
+                        Team t = new Team();   // Creates a new team under t
+                        t.setName(teamName);    // t has the name set as teamName
+                        t.printTeam();     
                         allTeams.Add(t);
                         break;
 
@@ -142,9 +120,9 @@ namespace CollegeApp
 
                         Console.WriteLine("Enter Tournament Name: ");
                         string tournamentName = Console.ReadLine();
-                        tournament o = new tournament();
+                        tournament o = new tournament();    
                         o.setName(tournamentName);
-                        o.printTournament();
+                        o.printTournament();  // Displays the tournament
                         break;
 
                     case "5":
@@ -153,8 +131,8 @@ namespace CollegeApp
                         Console.WriteLine("5 - Add participant to team");
                         Console.WriteLine("");
 
-                        Team teamSelected = allTeams[selectTeam()];
-                        Participant partSelected = allParticipants[selectParticipant()];
+                        Team teamSelected = allTeams[selectWhatever("team")];
+                        Participant partSelected = allParticipants[selectWhatever("participant")];
                         teamSelected.addParticipant(partSelected);
                         teamSelected.printTeam();
                         partSelected.printParticipant();
@@ -166,9 +144,9 @@ namespace CollegeApp
                         Console.WriteLine("6 - Add team to event");
                         Console.WriteLine("");
 
-                        teamSelected = allTeams[selectTeam()];
-                        Events eventSelected = allEvents[selectEvent()];
-                        eventSelected.addTeam(allTeams[selectTeam()]);   // Displays selection menu to pick from list of teams
+                        teamSelected = allTeams[selectWhatever("team")];
+                        Events eventSelected = allEvents[selectWhatever("event")];
+                        eventSelected.addTeam(allTeams[selectWhatever("team")]);   // Displays selection menu to pick from list of teams
                         eventSelected.printEvent();
                         teamSelected.printTeam();
                         break;
@@ -179,11 +157,11 @@ namespace CollegeApp
                         Console.WriteLine("7 - Add event to Tournament");
                         Console.WriteLine("");
 
-                        eventSelected = allEvents[selectEvent()];
-                        tournament tournamentSelected = allTournaments[selectTournament()];
-                        tournamentSelected.addEvent(allEvents[selectEvent()]);
+                        //eventSelected = allEvents[selectEvent()];
+                        tournament tournamentSelected = allTournaments[selectWhatever("tournament")];
+                        tournamentSelected.addEvent(allEvents[selectWhatever("event")]);  // Adds events and saves it under selected tournament
                         tournamentSelected.printTournament();
-                        eventSelected.printEvent();
+                        //eventSelected.printEvent();
                         break;
 
                     case "8":
@@ -192,19 +170,19 @@ namespace CollegeApp
                         Console.WriteLine("8 - Assign Rankings");
                         Console.WriteLine("");
 
-                        tournamentSelected = allTournaments[selectTournament()];
-                        eventSelected = allEvents[selectEvent()];
+                        tournamentSelected = allTournaments[selectWhatever("tournament")];
+                        eventSelected = allEvents[selectWhatever("event")];
                         Console.WriteLine("Which team came first?: ");
-                        teamSelected = allTeams[selectTeam()];
+                        teamSelected = allTeams[selectWhatever("team")];
                         
-                        eventSelected.allocatePlace(teamSelected, 1);
-                        eventSelected.getPoints(teamSelected);
+                        eventSelected.allocatePlace(teamSelected, 1);  // Sends the team and placing to the relevant class
+                        eventSelected.getPoints(teamSelected);  // 
                         eventSelected.pointsTally(teamSelected, 1);
 
                         for (int i= 2; i < allTeams.Count; i++)
                         {
                             Console.WriteLine("Which team came in position "+ i + "?");
-                            teamSelected = allTeams[selectTeam()];
+                            teamSelected = allTeams[selectWhatever("team")];
                             eventSelected.allocatePlace(teamSelected, i);
                             eventSelected.getPoints(teamSelected);
                             eventSelected.pointsTally(teamSelected, i);

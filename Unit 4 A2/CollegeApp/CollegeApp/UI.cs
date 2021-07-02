@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Channels;
 using System.Threading.Tasks;
 
+// (c) Ellis Clarke 2021
+// You are allowed to copy and modify according to the MIT License agreement
 namespace CollegeApp
 {
     class UI

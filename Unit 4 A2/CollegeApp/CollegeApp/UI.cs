@@ -187,7 +187,8 @@ namespace CollegeApp
                             eventSelected.getPoints(teamSelected);
                             eventSelected.pointsTally(teamSelected, i);
                             
-
+                                Console.WriteLine("Press any key to continue: ");
+                                Console.ReadLine();  // Makes the user press any key until the Menu
                         }
                         break;
                 }

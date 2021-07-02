@@ -22,3 +22,7 @@ namespace CollegeApp
         }
     }
 }
+
+// (c) Ellis Clarke 2021
+// You are allowed to copy and modify according to the MIT License agreement
+// https://github.com/ErisuKuraku/CollegeCSharp/blob/main/LICENSE

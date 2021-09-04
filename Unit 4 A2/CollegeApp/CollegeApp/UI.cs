@@ -14,6 +14,7 @@ namespace CollegeApp
         List<Events> allEvents = new List<Events>();
         private List<tournament> allTournaments = new List<tournament>();
         private List <AssignmentObject> listToSearch;
+        DateTime thisDay = DateTime.Today;
 
         public int selectWhatever(string whatever)
         {
@@ -51,6 +52,8 @@ namespace CollegeApp
             {
                 Console.Clear();     // Clears the terminal window before running another option
                 Console.WriteLine("-----College Tournament App-----");
+                Console.WriteLine("");
+                Console.WriteLine("Today's Date: " + thisDay.ToString("d") );
                 Console.WriteLine("");
                 Console.WriteLine("Main Menu:");
                 Console.WriteLine("");
